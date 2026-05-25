@@ -2,27 +2,26 @@
 ###  Project Overview
 This project analyzes trends in Indian students pursuing higher education abroad from 2019 to 2024 using data analysis and interactive visualization techniques.
 The goal of the project is to understand:
-- the most preferred study destinations,
-- how global events like COVID-19 affected student mobility,
-- and how factors such as visa policies, affordability, and opportunities influence international education trends.
+- The most preferred study destinations
+- How global events like COVID-19 affected student mobility
+- How factors such as visa policies, affordability
+- Opportunities influence international education trends.
 An interactive Tableau dashboard was created to transform raw data into meaningful and easy-to-understand insights.
 ###  Why This Project?
 Studying abroad is a major aspiration for many Indian students, but migration trends continuously change due to:
-- visa regulations,
-- tuition costs,
-- work opportunities,
-- and global events.
+- Visa regulations
+- Tuition costs
+- Work opportunities
+- Global events
 I chose this project to explore real-world education trends through: data analysis, visualization, and storytelling.
 ###  Problem Statement
-Raw educational migration data is difficult to interpret directly.
-This project solves that problem by visually analyzing:
-- destination popularity,
-- yearly student migration trends,
-- COVID-19 impact,
-- emerging study destinations.
+Raw educational migration data is difficult to interpret directly. This project solves that problem by visually analyzing:
+- Destination popularity
+- Yearly student migration trends
+- COVID-19 impact
+- Emerging study destinations
 ### Dataset & Variables
-The dataset contains records of Indian students studying abroad across different countries between 2019–2024.
-Key Variables Used
+The dataset contains records of Indian students studying abroad across different countries between 2019–2024. Key Variables Used:
 - Year → Trend analysis over time
 - Country → Study destination
 - Number of Students → Student migration volume
@@ -30,11 +29,11 @@ Key Variables Used
 - Growth Trends → Increase/decrease patterns
 ### Exploratory Data Analysis (EDA)
 EDA was performed to identify:
-- top study destinations,
-- yearly growth trends,
-- pandemic impact,
-- recovery patterns,
-- emerging destinations.
+- Top study destinations
+- Yearly growth trends
+- Pandemic impact
+- Recovery patterns
+- Emerging destinations
 ### Key Insights
 - Canada, USA, UK, and Australia remained the most preferred destinations.
 - A significant drop was observed during COVID-19 (2020–2021).
@@ -43,11 +42,12 @@ EDA was performed to identify:
 - Visa policies and affordability significantly influenced migration patterns.
 ###  Dashboard & Visualization
 An interactive Tableau dashboard was created to:
-- compare countries,
-- analyze yearly trends,
-- visualize COVID-19 impact,
-- explore changing student preferences.
-Visualizations Used
+- Compare countries
+- Analyze yearly trends
+- Visualize COVID-19 impact
+- Explore changing student preferences
+  
+Visualizations Used: 
 - Line Charts → Trend analysis
 - Bar Charts → Country comparison
 - Area Charts → Growth patterns
@@ -64,6 +64,7 @@ Visualizations Used
 ### Conclusion
 This project demonstrates how data analysis and visualization can uncover meaningful insights about Indian students studying abroad.
 The analysis highlights:
-- evolving destination preferences,
-- the impact of global events,
-- the growing importance of policies and affordability in shaping international education trends.
+- Evolving destination preferences
+- The impact of global events
+- The growing importance of policies
+- Affordability in shaping international education trends
